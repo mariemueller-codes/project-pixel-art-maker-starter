@@ -1,4 +1,7 @@
 # Pixel Art Maker Project
+Pixel Art Maker Project for Udacity's Full Stack Web Nanodegree Program
+
+![Pixel Art Sample - Owl](https://github.com/mariemueller-codes/FullStackNanoDegree_Udacity/blob/master/PixelArt/assets/owl-pixelArt.PNG)
 
 ## Table of Contents
 
